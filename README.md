@@ -7,7 +7,7 @@ extracted_08_10 -  test_data
 
 extracted_08_10_cv  - training data
 
-SWS_ITU.docx - report document
+report.pdf - report document
 
 
 training_history.txt - training and validation loss history during each epoch
